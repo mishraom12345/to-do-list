@@ -1,0 +1,12 @@
+.header{
+    background-color:rgb(120, 236, 57);
+    justify-content: center;
+    width: 50%;
+    margin-left: 26%;
+    margin-top: 5%;
+    text-align: center;
+}
+
+input[type = 'text'].select{
+    width: 50%;
+}
